@@ -2,3 +2,8 @@ main()
 {
 print"hello world";
 }
+
+method()
+{
+print"添加一个新函数";
+}
